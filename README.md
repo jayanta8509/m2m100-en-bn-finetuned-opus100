@@ -185,10 +185,6 @@ If you use this model in your research, please cite:
 - Hugging Face for the Transformers library
 - The open-source community for evaluation tools
 
-## License
-
-This model is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ---
 
 **Model Repository**: [Jayanta8509/m2m100-en-bn-finetuned-opus100](https://huggingface.co/Jayanta8509/m2m100-en-bn-finetuned-opus100)
